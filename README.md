@@ -4,7 +4,7 @@ This interactive Excel dashboard analyzes a dataset of over 8,700 global Spotify
 
 Rather than serving as a basic static report, this project was engineered with a **three-tier architecture** and advanced user-experience (UX) features to function like a native business intelligence app. It enables stakeholders to instantly isolate individual artists, track release eras, and filter content profiles.
 
-![Dashboard Overview](assets/dashboard_overview.png)
+![Dashboard Overview](asset/dashboard_overview.png)
 
 ---
 
